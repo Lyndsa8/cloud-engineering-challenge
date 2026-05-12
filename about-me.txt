@@ -1,0 +1,7 @@
+Name: Lyndsay Andeyo
+University: Machakos University [alumni]
+Course: BSC. Telecommunication and Information Technology
+I want to bridge the gap between core networking and modern infrastructure
+by intergrating DevOPs practices into network management.
+I aim to learn how to automate deployments and manage infrastructure
+through code.
