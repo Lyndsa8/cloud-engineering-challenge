@@ -2,3 +2,4 @@ Skills : Cloud architecture, Docker, Kubernetes, CI/CD pipelines, IaC,
 automated scaling among others.
 Career Goals: To become a Cloud Network Engineer specialized in intergrating
 DevOPs workflows into Telecom Infrastructure eg SD-WAN, 5G networks.
+Future Cloud Role: Cloud Network Engineer (focused on DevOps and Automation)
